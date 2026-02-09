@@ -1,0 +1,23 @@
+{
+  "name": "amit-backend",
+  "version": "1.0.0",
+  "description": "a backend at amitnegijj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitnegijj/Backend_Amit.git"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "amitnegijj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitnegijj/Backend_Amit/issues"
+  },
+  "homepage": "https://github.com/amitnegijj/Backend_Amit#readme"
+}
