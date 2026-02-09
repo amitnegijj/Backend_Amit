@@ -2,6 +2,7 @@
   "name": "amit-backend",
   "version": "1.0.0",
   "description": "a backend at amitnegijj",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/amitnegijj/Backend_Amit/issues"
   },
-  "homepage": "https://github.com/amitnegijj/Backend_Amit#readme"
+  "homepage": "https://github.com/amitnegijj/Backend_Amit#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
 }
